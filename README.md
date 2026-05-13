@@ -1,58 +1,20 @@
 ## Hi there 👋
 
-I'm Arun Vasanth Selwyn Sudhaker, a B.Tech Computer Science student at Amrita Vishwa Vidyapeetham with a minor in Robotics and Automation.  
-I’m passionate about building real-world tech projects in AI/ML, LLM applications, robotics, automation, cybersecurity, and full-stack development.
+I'm Arun, a B.Tech Computer Science student at Amrita Vishwa Vidyapeetham with a minor in Robotics and Automation.
 
-### 🚀 What I’m Working On
-- LLM-powered applications using OpenAI/Gemini APIs
-- AI career guidance and resume generation platforms
-- ROS-based automation systems for autonomous vehicles
-- Machine learning and data preprocessing tools
-- Blockchain-inspired applications and secure systems
-
-### 🧠 Interests
-- Artificial Intelligence & Machine Learning
-- Robotics & Automation
-- Large Language Models (LLMs)
-- Cybersecurity & VAPT
-- Linux customization & hardware tinkering
-- Building scalable software systems
+I’m interested in AI/ML, LLMs, robotics, automation, cybersecurity, and building real-world software projects. I enjoy working on AI-powered applications, ROS-based systems, blockchain projects, and full-stack development.
 
 ### 🛠 Tech Stack
-- Languages: Python, Java, C++, C
-- AI/ML: RAG, Prompt Engineering, LLM APIs
-- Frameworks & Tools: Firebase, ROS, Git, Tkinter, Java Swing
-- Databases & Storage: Firestore, JSON
-- Other: OOP, DSA, Automation Systems
+Python • Java • C++ • ROS • Firebase • LLM APIs • RAG • OOP • DSA
 
-### 📌 Projects
-- **ARUMBU** — Multilingual AI Career Guidance Platform
-- **Blockchain Expense Tracker** — Blockchain-inspired finance tracking system
-- **The Last Exit** — Java-based AI Maze Solver
-- **Automated Data Preprocessing Platform**
-- **ROS-based Autonomous Vehicle Automation**
+### 🚀 Projects
+- ARUMBU – AI Career Guidance Platform
+- Blockchain Expense Tracker
+- Java-based Maze Solver
+- Automated Data Preprocessing Platform
 
-### 📄 Publications
-- Published research paper on SSRN:
-  **“Participatory Assessment of Drinking Water Salinity and Exploration of Sustainable Solutions in Coastal Tamil Nadu”**
+### 📄 Publication
+Published research paper on SSRN about sustainable drinking water solutions in coastal Tamil Nadu.
 
 ### 🌱 Currently Learning
-- Advanced Machine Learning
-- Deep Learning
-- Agentic AI Systems
-- Scalable backend architectures
-
-### 🤝 Communities & Activities
-- NSS Volunteer
-- Amrita Live-in-Labs Participant
-- Robotics & Automation Projects
-- Community-driven research initiatives
-
-### ⚡ Fun Facts
-- I use Linux daily and love customizing my setup
-- I enjoy breaking and rebuilding systems to understand how they work
-- Always experimenting with new AI tools and automation workflows
-
-### 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/arunvasanth-s
-- Email: arunvasanth.official@gmail.com
+Machine Learning, Deep Learning, and Agentic AI Systems
